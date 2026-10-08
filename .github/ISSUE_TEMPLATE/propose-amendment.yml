@@ -1,0 +1,32 @@
+name: Propose canon amendment
+description: Suggest a change to CANON.md or a precept
+title: "[Amendment] "
+labels: ["canon-amendment"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ground every claim in shipped code. See [amendments/CONTRIBUTING.md](../blob/main/amendments/CONTRIBUTING.md).
+  - type: dropdown
+    id: target
+    attributes:
+      label: Target
+      options:
+        - CANON.md precept wording
+        - New product anchor
+        - Changelog / version bump only
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should change and why?
+    validations:
+      required: true
+  - type: input
+    id: anchor
+    attributes:
+      label: Product anchor (repo URL, benchmark, or live demo)
+    validations:
+      required: true
