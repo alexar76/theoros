@@ -1,0 +1,29 @@
+name: Canon chapter idea
+description: Propose a topic for a future THEOROS column
+title: "[Chapter idea] "
+labels: ["canon-chapter"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Working title
+    validations:
+      required: true
+  - type: textarea
+    id: thesis
+    attributes:
+      label: One-paragraph thesis
+    validations:
+      required: true
+  - type: input
+    id: anchors
+    attributes:
+      label: Shipped artifacts (comma-separated repo names or URLs)
+    validations:
+      required: true
+  - type: textarea
+    id: debate
+    attributes:
+      label: Debate hook question for #canon-debate
+    validations:
+      required: true
