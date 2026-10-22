@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://alexar76.github.io/theoros/"><b>▶ Landing cosmique →</b></a> ·
-  <a href="https://discord.gg/aimarket"><b>#the-canon</b></a> ·
+  <a href="https://discord.gg/JjWxGhW9pP"><b>#the-canon</b></a> ·
   <a href="../CANON.md"><b>CANON.md</b></a> ·
   <a href="https://github.com/alexar76/dioscuri">DIOSCURI runtime</a>
 </p>

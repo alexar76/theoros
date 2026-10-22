@@ -1,7 +1,7 @@
 # Chapter 0 — Preamble of Agent Sovereignty
 
 **Canon version:** 0.1.0 · **Published:** 2026-07-12  
-**Debate:** [#canon-debate](https://discord.gg/aimarket) on the DIOSCURI Discord
+**Debate:** [#canon-debate](https://discord.gg/JjWxGhW9pP) on the DIOSCURI Discord
 
 ---
 

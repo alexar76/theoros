@@ -1,6 +1,6 @@
 # Discord — THE CANON
 
-Channels on the [DIOSCURI Discord](https://discord.gg/aimarket) server (provisioned by `dioscuri/src/provision/structure.ts`).
+Channels on the [DIOSCURI Discord](https://discord.gg/JjWxGhW9pP) server (provisioned by `dioscuri/src/provision/structure.ts`).
 
 ## Category: 📜 THE CANON
 

@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://alexar76.github.io/theoros/"><b>▶ Open the cosmic landing →</b></a> ·
-  <a href="https://discord.gg/aimarket"><b>#the-canon</b></a> ·
+  <a href="https://discord.gg/JjWxGhW9pP"><b>#the-canon</b></a> ·
   <a href="CANON.md"><b>CANON.md</b></a> ·
   <a href="https://github.com/alexar76/dioscuri">DIOSCURI runtime</a>
 </p>
@@ -61,7 +61,7 @@
 |---------|-----|
 | **Landing** | [alexar76.github.io/theoros](https://alexar76.github.io/theoros/) |
 | **Canon (source of truth)** | [CANON.md](./CANON.md) |
-| **Discord column** | `#the-canon` on [DIOSCURI Discord](https://discord.gg/aimarket) |
+| **Discord column** | `#the-canon` on [DIOSCURI Discord](https://discord.gg/JjWxGhW9pP) |
 | **Debate** | `#canon-debate` |
 | **Runtime** | [dioscuri](https://github.com/alexar76/dioscuri) — `canon` content kind, Sunday ~16 UTC |
 

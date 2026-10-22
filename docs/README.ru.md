@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://alexar76.github.io/theoros/"><b>▶ Космический лендинг →</b></a> ·
-  <a href="https://discord.gg/aimarket"><b>#the-canon</b></a> ·
+  <a href="https://discord.gg/JjWxGhW9pP"><b>#the-canon</b></a> ·
   <a href="../CANON.md"><b>CANON.md</b></a> ·
   <a href="https://github.com/alexar76/dioscuri">DIOSCURI runtime</a>
 </p>
@@ -19,7 +19,7 @@
 |---------|-----|
 | **Лендинг** | [alexar76.github.io/theoros](https://alexar76.github.io/theoros/) |
 | **Канон (источник истины)** | [CANON.md](../CANON.md) |
-| **Колонка Discord** | `#the-canon` на [DIOSCURI Discord](https://discord.gg/aimarket) |
+| **Колонка Discord** | `#the-canon` на [DIOSCURI Discord](https://discord.gg/JjWxGhW9pP) |
 | **Дебаты** | `#canon-debate` |
 | **Runtime** | [dioscuri](https://github.com/alexar76/dioscuri) — kind `canon`, воскресенье ~16 UTC |
 
